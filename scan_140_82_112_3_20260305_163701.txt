@@ -1,0 +1,13 @@
+目标：140.82.112.3
+扫描时间：2026-03-05 16:37:01
+开放端口数：3
+============================================================
+
+端口      服务          banner
+------------------------------------------------------------
+22      SSH         No banner
+80      HTTP        HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: https://github.com/
+connection: close
+443     HTTPS       No banner
