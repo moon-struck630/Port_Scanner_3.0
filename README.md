@@ -216,10 +216,9 @@ port-scanner/
 │
 ├── port_scanner.py          # 主程序
 ├── README.md                 # 本文档
-├── requirements.txt          # 依赖列表
-├── scan_results/             # 扫描结果目录（自动创建）
-    ├── scan_8_8_8_8_20260305_163256.txt
-    └── scan_140_82_112_3_20260305_163701.txt
+├── requirements.txt          # 依赖列表 
+├── scan_8_8_8_8_20260305_163256.txt
+└── scan_140_82_112_3_20260305_163701.txt  #扫描文件（自动创建）
 ```
 
 ## 类与方法参考
